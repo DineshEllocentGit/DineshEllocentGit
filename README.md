@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DineshEllocentGit
 - 👀 I’m interested in angular
-- 🌱 I’m currently learning IONIC Framework
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
